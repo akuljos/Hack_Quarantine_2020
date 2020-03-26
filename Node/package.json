@@ -1,0 +1,22 @@
+{
+  "name": "hack_quarantine_2020",
+  "version": "1.0.0",
+  "description": "Our project submittal for HackQuarantine 2020",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akulio4668/Hack_Quarantine_2020.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akulio4668/Hack_Quarantine_2020/issues"
+  },
+  "homepage": "https://github.com/akulio4668/Hack_Quarantine_2020#readme",
+  "dependencies": {
+    "mongodb": "^3.5.5"
+  }
+}
